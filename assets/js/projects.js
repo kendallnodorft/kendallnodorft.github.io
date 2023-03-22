@@ -14,7 +14,6 @@ let render_projects = (slug) => {
             image: 'assets/images/OakieRay.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/OakieRay.jpg',
             title: 'Oakley Ray',
-            demo: 'https://mporter.co',
             technologies: ['Photoshop'],
             description: "A vector art graphic I created in Photoshop of my dog, Oakley Ray.",
             categories: ['featured', 'webdev']
