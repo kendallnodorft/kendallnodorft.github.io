@@ -29,13 +29,13 @@ let render_projects = (slug) => {
             categories: ['featured', 'security']
         },
         {
-            image: 'assets/images/dallasfarmersmarket.jpg',
-            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/dallasfarmersmarket.jpg',
-            title: 'Dallas Farmers Market',
+            image: 'assets/images/clairo.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/clairo.png',
+            title: 'Clairo',
             demo: false, 
-            technologies: ['DSLR Camera', 'Photography'],
-            description: "A vintage truck I spotted at the farmers market.",
-            categories: ['featured', 'security']
+            technologies: ['Magazine', 'InDesign'],
+            description: "A sample magazine layout I designed of Clairo and her work. ",
+            categories: ['featured', 'native']
         },
         {
             image: 'assets/images/tylerchilders-ladymay.png',
