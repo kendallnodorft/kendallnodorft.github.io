@@ -23,17 +23,16 @@ let render_projects = (slug) => {
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/carter2.jpg',
             title: 'Carter in His Red Truck',
             technologies: ['DSLR Camera', 'Photography'],
-            description: "I photographed my friend's child when we visited the farmer's market together.",
+            description: "I photographed my friend's child when we visited the farmers market together.",
             categories: ['featured', 'security']
         },
         {
-            image: 'assets/images/collage.jpg',
-            link: 'https://github.com/abhn/Marvel',
-            title: 'Marvel',
-            demo: false,
-            technologies: ['Android', 'OpenCV'],
-            description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
-            categories: ['featured', 'native']
+            image: 'assets/images/dallasfarmersmarket.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/dallasfarmersmarket.jpg',
+            title: 'Dallas Farmers Market',
+            technologies: ['DSLR Camera', 'Photography'],
+            description: "A vintage truck I spotted at the farmers market.",
+            categories: ['featured', 'security']
         },
         {
             image: 'assets/images/mpw.jpg',
