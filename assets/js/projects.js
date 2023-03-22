@@ -56,7 +56,7 @@ let render_projects = (slug) => {
             categories: ['native']
         },
         {
-            image: 'assets/images/kendallpocast2.png',
+            image: 'assets/images/kendallpodcast2.png',
             link: 'https://www.youtube.com/watch?v=XLxqasSqulY',
             title: 'Bridal Buzz Podcast',
             demo: false,
