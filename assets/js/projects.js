@@ -19,13 +19,12 @@ let render_projects = (slug) => {
             categories: ['featured', 'security']
         },
         {
-            image: 'assets/images/mobile-landscape.jpg',
-            link: 'https://github.com/abhn/Wall-E',
-            title: 'Wall-E',
-            demo: 'http://wall-e-jekyll.github.io/',
-            technologies: ['Semantic UI', 'Jekyll'],
-            description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
-            categories: ['featured', 'webdev']
+            image: 'assets/images/carter2.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/carter2.jpg',
+            title: 'Carter in His Red Truck',
+            technologies: ['DSLR Camera', 'Photography'],
+            description: "I photographed my friend's child when we visited the farmer's market together.",
+            categories: ['featured', 'security']
         },
         {
             image: 'assets/images/collage.jpg',
