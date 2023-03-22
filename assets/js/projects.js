@@ -26,7 +26,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['DSLR Camera', 'Photography'],
             description: "I photographed my friend's child when we visited the farmers market together.",
-            categories: ['featured', 'security']
+            categories: ['featured', 'diy']
         },
          {
             image: 'assets/images/OakieRay.jpg',
@@ -35,7 +35,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['Photoshop'],
             description: "A vector art graphic I created in Photoshop of my dog, Oakley Ray.",
-            categories: ['featured', 'security']
+            categories: ['featured', 'diy']
         },
         {
             image: 'assets/images/tylerchilders-ladymay.png',
@@ -44,7 +44,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Canva', 'Graphic Design'],
             description: "I created a poster of one of my favorite country singers, Tyler Childer. The words depict lyrics from his song 'Lady May.' ",
-            categories: ['featured', 'security']
+            categories: ['featured', 'diy']
         },
         {
             image: 'assets/images/clairo.png',
