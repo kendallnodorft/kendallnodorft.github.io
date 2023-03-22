@@ -11,13 +11,13 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/OakieRay.jpg',
-            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/OakieRay.jpg',
-            title: 'Oakley Ray',
+            image: 'assets/images/kendallpodcast.png',
+            link: 'https://www.youtube.com/watch?v=MwRUKHRySHk&t=23s',
+            title: 'Bridal Buzz Podcast',
             demo: false, 
-            technologies: ['Photoshop'],
-            description: "A vector art graphic I created in Photoshop of my dog, Oakley Ray.",
-            categories: ['featured', 'security']
+            technologies: ['Podcast', 'Interview'],
+            description: "Here is a podcast I produced and edited while at Bridal Buzz.",
+            categories: ['featured', 'webdev']
         },
         {
             image: 'assets/images/carter2.jpg',
@@ -28,14 +28,14 @@ let render_projects = (slug) => {
             description: "I photographed my friend's child when we visited the farmers market together.",
             categories: ['featured', 'security']
         },
-        {
-            image: 'assets/images/kendallpodcast.png',
-            link: 'https://www.youtube.com/watch?v=MwRUKHRySHk&t=23s',
-            title: 'Bridal Buzz Podcast',
+         {
+            image: 'assets/images/OakieRay.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/OakieRay.jpg',
+            title: 'Oakley Ray',
             demo: false, 
-            technologies: ['Podcast', 'Interview'],
-            description: "Here is a podcast I produced and edited while at Bridal Buzz.",
-            categories: ['featured', 'webdev']
+            technologies: ['Photoshop'],
+            description: "A vector art graphic I created in Photoshop of my dog, Oakley Ray.",
+            categories: ['featured', 'security']
         },
         {
             image: 'assets/images/tylerchilders-ladymay.png',
