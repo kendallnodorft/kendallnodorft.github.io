@@ -16,7 +16,7 @@ let render_projects = (slug) => {
             title: 'Bridal Buzz Podcast',
             demo: false, 
             technologies: ['Podcast', 'Interview'],
-            description: "Here is a podcast I produced and edited while at Bridal Buzz.",
+            description: "This is a podcast I produced and edited while at Bridal Buzz.",
             categories: ['featured', 'webdev']
         },
         {
@@ -56,13 +56,13 @@ let render_projects = (slug) => {
             categories: ['native']
         },
         {
-            image: 'assets/images/data-destroyer.png',
-            link: 'https://github.com/abhn/data-destroyer-gui',
-            title: 'Data Destroyer',
+            image: 'assets/images/kendallpocast2.png',
+            link: 'https://www.youtube.com/watch?v=XLxqasSqulY',
+            title: 'Bridal Buzz Podcast',
             demo: false,
-            technologies: ['C++', 'Qt'],
-            description: "Native GUI wrapper for GNU coreutils tool 'dd'",
-            categories: ['native']
+            technologies: ['Podcast', 'Interview'],
+            description: "This is another podcast I produced and edited while at Bridal Buzz.",
+            categories: ['webdev']
         },
         {
             image: 'assets/images/raspberry-pi-monitor.png',
