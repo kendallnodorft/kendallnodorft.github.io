@@ -33,7 +33,7 @@ let render_projects = (slug) => {
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/OakieRay.jpg',
             title: 'Oakley Ray',
             demo: false, 
-            technologies: ['Photoshop'],
+            technologies: ['Photoshop', 'Graphic Design'],
             description: "A vector art graphic I created in Photoshop of my dog, Oakley Ray.",
             categories: ['featured', 'diy']
         },
