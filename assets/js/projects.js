@@ -29,13 +29,13 @@ let render_projects = (slug) => {
             categories: ['featured', 'security']
         },
         {
-            image: 'assets/images/clairo.png',
-            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/clairo.png',
-            title: 'Clairo',
+            image: 'assets/images/kendallpodcast.png',
+            link: 'https://www.youtube.com/watch?v=MwRUKHRySHk&t=23s',
+            title: 'Bridal Buzz Podcast',
             demo: false, 
-            technologies: ['Magazine', 'InDesign'],
-            description: "A sample magazine layout I designed of Clairo and her work. ",
-            categories: ['featured', 'native']
+            technologies: ['Podcast', 'Interview'],
+            description: "Here is a podcast I produced and edited while at Bridal Buzz.",
+            categories: ['featured', 'webdev']
         },
         {
             image: 'assets/images/tylerchilders-ladymay.png',
@@ -47,12 +47,12 @@ let render_projects = (slug) => {
             categories: ['featured', 'security']
         },
         {
-            image: 'assets/images/social-share-count.jpeg',
-            link: 'https://github.com/abhn/Social-Share-Counts',
-            title: 'Social Share Count',
+            image: 'assets/images/clairo.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/clairo.png',
+            title: 'Clairo',
             demo: false,
-            technologies: ['Python'],
-            description: "Ever wondered how many times a URL has been shared on popular social networks?",
+            technologies: ['Magazine', 'InDesign'],
+            description: "A sample magazine layout I designed of Clairo and her work.",
             categories: ['native']
         },
         {
