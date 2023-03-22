@@ -15,7 +15,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/abhn/Mporter',
             title: 'Cuco',
             demo: 'https://mporter.co',
-            technologies: ['Flask', 'Celery', 'Python'],
+            technologies: ['Print', 'Color', 'Design'],
             description: "Magazine design",
             categories: ['featured', 'webdev']
         },
