@@ -38,12 +38,12 @@ let render_projects = (slug) => {
             categories: ['featured', 'security']
         },
         {
-            image: 'assets/images/mpw.jpg',
-            link: 'https://github.com/abhn/mpw',
-            title: 'Master Password',
-            demo: 'https://www.nagekar.com/mpw',
-            technologies: ['Semantic UI', 'CSS3'],
-            description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
+            image: 'assets/images/tylerchilders-ladymay.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/tylerchilders-ladymay.png',
+            title: 'Tyler Childers',
+            demo: false,
+            technologies: ['Canva', 'Graphic Design'],
+            description: "I created a poster of one of my favorite country singers, Tyler Childer. The words depict lyrics from his song 'Lady May.' ",
             categories: ['featured', 'security']
         },
         {
