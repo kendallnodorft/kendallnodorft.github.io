@@ -1,38 +1,6 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@kendallnodorft 
-jekyll
-/
-minima
-Public
-Fork your own copy of jekyll/minima
-Code
-Issues
-7
-Pull requests
-19
-Actions
-Projects
-Security
-Insights
-minima/_config.yml
-@ashmaroli
-ashmaroli Improve readability of config file (#703)
-…
-Latest commit cdf8aa4 on Jan 9
- History
- 15 contributors
-@ashmaroli@ashawley@DirtyF@uliwitness@raoasifraza11@peterdesmet@patridge@mcmd@MikkCZ@juicedatom@HackingGate@hszhakka
-56 lines (47 sloc)  2.22 KB
 
 title: My amazing website
-author:
+author: Kendall Nodorft
   name: Kendall Nodorft
   email: kendallnodorft@gmail.com
 
