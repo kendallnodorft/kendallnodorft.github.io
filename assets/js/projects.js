@@ -12,11 +12,11 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             image: 'assets/images/OakieRay.jpg',
-            link: 'https://github.com/abhn/Mporter',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/OakieRay.jpg',
             title: 'Oakley Ray',
             demo: 'https://mporter.co',
             technologies: ['Photoshop'],
-            description: "Magazine design",
+            description: "A vector art graphic I created in Photoshop of my dog, Oakley Ray.",
             categories: ['featured', 'webdev']
         },
         {
