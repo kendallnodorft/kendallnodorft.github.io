@@ -11,11 +11,11 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/cuco.png',
+            image: 'assets/images/OakieRay.jpg',
             link: 'https://github.com/abhn/Mporter',
-            title: 'Cuco',
+            title: 'Oakley Ray',
             demo: 'https://mporter.co',
-            technologies: ['Print', 'Color', 'Design'],
+            technologies: ['Photoshop'],
             description: "Magazine design",
             categories: ['featured', 'webdev']
         },
