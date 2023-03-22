@@ -14,6 +14,7 @@ let render_projects = (slug) => {
             image: 'assets/images/OakieRay.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/OakieRay.jpg',
             title: 'Oakley Ray',
+            demo: false, 
             technologies: ['Photoshop'],
             description: "A vector art graphic I created in Photoshop of my dog, Oakley Ray.",
             categories: ['featured', 'security']
@@ -22,6 +23,7 @@ let render_projects = (slug) => {
             image: 'assets/images/carter2.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/carter2.jpg',
             title: 'Carter in His Red Truck',
+            demo: false, 
             technologies: ['DSLR Camera', 'Photography'],
             description: "I photographed my friend's child when we visited the farmers market together.",
             categories: ['featured', 'security']
@@ -30,6 +32,7 @@ let render_projects = (slug) => {
             image: 'assets/images/dallasfarmersmarket.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/dallasfarmersmarket.jpg',
             title: 'Dallas Farmers Market',
+            demo: false, 
             technologies: ['DSLR Camera', 'Photography'],
             description: "A vintage truck I spotted at the farmers market.",
             categories: ['featured', 'security']
@@ -71,13 +74,13 @@ let render_projects = (slug) => {
             categories: ['webdev', 'diy']
         },
         {
-            image: 'assets/images/s3scan.png',
-            link: 'https://github.com/abhn/S3Scan',
-            title: 'S3Scan',
+            image: 'assets/images/dallasfarmersmarket.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/dallasfarmersmarket.jpg',
+            title: 'Dallas Farmers Market',
             demo: false,
-            technologies: ['python'],
-            description: "Automate crawling of a website and find publicly open S3 buckets for takeover.",
-            categories: ['native', 'security']
+            technologies: ['DSLR Camera', 'Photography'],
+            description: "A vintage truck I spotted at the farmers market.",
+            categories: ['security']
         },
         {
             image: 'assets/images/elementary.png',
