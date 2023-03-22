@@ -11,12 +11,12 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/clairo.png',
+            image: 'assets/images/cuco.png',
             link: 'https://github.com/abhn/Mporter',
-            title: 'Mporter',
+            title: 'Cuco',
             demo: 'https://mporter.co',
             technologies: ['Flask', 'Celery', 'Python'],
-            description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
+            description: "Magazine design",
             categories: ['featured', 'webdev']
         },
         {
