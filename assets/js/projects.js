@@ -16,7 +16,7 @@ let render_projects = (slug) => {
             title: 'Oakley Ray',
             technologies: ['Photoshop'],
             description: "A vector art graphic I created in Photoshop of my dog, Oakley Ray.",
-            categories: ['featured', 'personal']
+            categories: ['featured', 'security']
         },
         {
             image: 'assets/images/mobile-landscape.jpg',
