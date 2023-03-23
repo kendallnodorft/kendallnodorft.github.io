@@ -96,7 +96,7 @@ let render_projects = (slug) => {
             link: 'https://twitter.com/IESHealthcare',
             title: 'Integrative Emergency Services Twitter',
             demo: false,
-            technologies: ['Social Media', 'Twitter', 'Graphic Design'],
+            technologies: ['Social Media', 'Twitter', 'Canva'],
             description: "I am primarily responsible for designing and creating all Twitter posts for Integrative Emergency Services (@IESHealthcare).",
             categories: ['native']
         },
