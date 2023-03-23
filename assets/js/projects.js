@@ -110,13 +110,13 @@ let render_projects = (slug) => {
             categories: ['native']
         },
         {
-            image: 'assets/images/old-lcd.jpg',
-            link: 'https://www.nagekar.com/2018/05/reusing-old-laptop-lcd-panel.html',
-            title: 'Reusing Old LCD Panel',
+            image: 'assets/images/iesyoutube.png',
+            link: 'https://www.youtube.com/@integrativeemergencyservic6576',
+            title: 'Integrative Emergency Services YouTube',
             demo: false,
             technologies: ['DIY'],
-            description: "Reusing a dead laptop's LCD panel as a secondary monitor.",
-            categories: ['diy']
+            description: "I designed and created this video among others featured on the YouTube channel of Integrative Emergency Services.",
+            categories: ['native']
         },
         {
             image: 'assets/images/nextcloud-enc.png',
