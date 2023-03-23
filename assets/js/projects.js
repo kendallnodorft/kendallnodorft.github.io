@@ -83,13 +83,13 @@ let render_projects = (slug) => {
             categories: ['security']
         },
         {
-            image: 'assets/images/elementary.png',
-            link: 'https://github.com/abhn/Elementary',
-            title: 'Elementary',
-            demo: 'https://elementary-jekyll.github.io/',
-            technologies: ['Jekyll', 'CSS3'],
-            description: "Elementary is a zero Javascript and minimal CSS ultra lightweight Jekyll theme for those of you who love simplicity.",
-            categories: ['webdev']
+            image: 'assets/images/christmas.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/christmas.png',
+            title: 'Khrungbin',
+            demo: false,
+            technologies: ['Indesign', 'Magazine'],
+            description: "A sample magazine layout I designed for my favorite Khrungbin song.",
+            categories: ['security']
         },
         {
             image: 'assets/images/iespamplet.jpeg',
