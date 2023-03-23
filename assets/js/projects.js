@@ -94,10 +94,10 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/iespamplet2.png',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/iespamphlet2.png',
-            title: 'IES Pamphlet',
+            title:'IES Pamphlet',
             demo: false,
             technologies: ['Canva', 'Print Design'],
-            description: "A pamphlet I designed to showcase the mission of Integrative Emergency Services.",
+            description: "A pamphlet I designed to showcase fellowship opportunities within Integrative Emergency Services.",
             categories: ['native']
         },
         {
