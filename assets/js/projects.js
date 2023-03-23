@@ -146,13 +146,13 @@ let render_projects = (slug) => {
             categories: ['webdev']
         },
         {
-            image: 'assets/images/koalamate.png',
-            link: 'https://github.com/abhn/koalamate',
-            title: 'Koalamate',
+            image: 'assets/images/cuco.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/cuco.png',
+            title: 'Cuco Magazine Cover',
             demo: false,
-            technologies: ['Electron', 'Javascript'],
-            description: "A cross-platform desktop application that serves as a Wolfram Alpha query place and notes taker.",
-            categories: ['native']
+            technologies: ['InDesign', 'Magazine'],
+            description: "A sample magazine layout I designed for Cuco.",
+            categories: ['security']
         },
     ]
 
