@@ -85,7 +85,7 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/kendallpodcast.png',
             link: 'https://www.youtube.com/watch?v=MwRUKHRySHk&t=23s',
-            title: 'Bridal Buzz Takeover - Img of Women',
+            title: 'Bridal Buzz Takeover',
             demo: false, 
             technologies: ['Podcast', 'Interview'],
             description: "In this episode I interview my bosses, Kat Gualy and Erika Perez, about women in media. I also produced and edited this content. ",
@@ -128,13 +128,13 @@ let render_projects = (slug) => {
             categories: ['webdev']
         },
         {
-            image: 'assets/images/google-cloud-backup.png',
-            link: 'https://www.nagekar.com/2018/05/encrypted-backup-with-duplicity.html',
-            title: 'Encrypted Backups - Google Cloud',
+            image: 'assets/images/pride.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/pride.png',
+            title: 'KTSW Pride Songs Poster',
             demo: false,
-            technologies: ['NextCloud', 'Duplicity'],
-            description: "Create automated encrypted incremental backups of data. Sync everything securely to Google Cloud.",
-            categories: ['diy', 'security']
+            technologies: ['Print', 'Design'],
+            description: "A poster I created for a local radio station featuring LGBTQ+ songs.",
+            categories: ['security']
         },
         {
             image: 'assets/images/pi-cloud.jpg',
