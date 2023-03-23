@@ -119,13 +119,13 @@ let render_projects = (slug) => {
             categories: ['native']
         },
         {
-            image: 'assets/images/nextcloud-enc.png',
-            link: 'https://www.nagekar.com/2017/08/private-cloud-part-2.html',
-            title: 'Encrypted Self-Hosted Cloud',
+            image: 'assets/images/bbdog.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/bbdog.png',
+            title: 'Bridal Buzz Social Post',
             demo: false,
-            technologies: ['NextCloud', 'GnuPG'],
-            description: "Self hosted encrypted cloud setup with Nextcloud and GnuPG.",
-            categories: ['diy', 'security']
+            technologies: ['Social Media', 'Instagram'],
+            description: "I designed and created this social post among others for Bridal Buzz.",
+            categories: ['webdev']
         },
         {
             image: 'assets/images/google-cloud-backup.png',
