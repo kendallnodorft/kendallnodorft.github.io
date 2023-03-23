@@ -92,8 +92,8 @@ let render_projects = (slug) => {
             categories: ['security']
         },
         {
-            image: 'assets/images/iespamplet.jpeg',
-            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/iespamphlet.jpeg',
+            image: 'assets/images/iespamplet.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/iespamphlet.jpg',
             title: 'IES Pamphlet',
             demo: false,
             technologies: ['Canva', 'Print Design'],
