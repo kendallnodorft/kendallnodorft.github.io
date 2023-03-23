@@ -43,7 +43,7 @@ let render_projects = (slug) => {
             title: 'Tyler Childers',
             demo: false,
             technologies: ['Canva', 'Graphic Design'],
-            description: "I created a poster of one of my favorite country singers, Tyler Childer. The words depict lyrics from his song 'Lady May.' ",
+            description: "I created a poster of one of my favorite country singers, Tyler Childers. The words depict lyrics from his song 'Lady May.' ",
             categories: ['featured', 'diy']
         },
         {
@@ -58,10 +58,10 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/kendallpodcast2.png',
             link: 'https://www.youtube.com/watch?v=XLxqasSqulY',
-            title: 'Bridal Buzz Podcast',
+            title: 'Engaged in SA: Kat and Jackson',
             demo: false,
             technologies: ['Podcast', 'Interview'],
-            description: "This is another podcast I produced and edited while at Bridal Buzz.",
+            description: "In this episode I interview my boss and her fiance about their engagement story. I also produced and edited this content.",
             categories: ['webdev']
         },      
         {
@@ -71,24 +71,24 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['DSLR Camera', 'Photography'],
             description: "A vintage truck I spotted at the farmers market.",
-            categories: ['security']
+            categories: ['diy']
         },
         {
             image: 'assets/images/christmas.png',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/christmas.png',
-            title: 'Khrungbin',
+            title: 'Khruangbin',
             demo: false,
             technologies: ['Indesign', 'Magazine'],
-            description: "A sample magazine layout I designed for my favorite Khrungbin song.",
+            description: "A sample magazine layout I designed for my favorite Khruangbin song.",
             categories: ['security']
         },
         {
             image: 'assets/images/kendallpodcast.png',
             link: 'https://www.youtube.com/watch?v=MwRUKHRySHk&t=23s',
-            title: 'Bridal Buzz Podcast',
+            title: 'Bridal Buzz Takeover - Img of Women',
             demo: false, 
             technologies: ['Podcast', 'Interview'],
-            description: "This is a podcast I produced and edited while at Bridal Buzz.",
+            description: "In this episode I interview my bosses, Kat Gualy and Erika Perez, about women in media. I also produced and edited this content. ",
             categories: ['featured', 'webdev']
         },
         {
