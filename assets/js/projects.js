@@ -10,13 +10,13 @@ let render_projects = (slug) => {
     $(`#${slug}`).addClass('white-button-hover');
 
     let projects_obj = [
-        {
-            image: 'assets/images/kendallpodcast.png',
-            link: 'https://www.youtube.com/watch?v=MwRUKHRySHk&t=23s',
-            title: 'Bridal Buzz Podcast',
-            demo: false, 
-            technologies: ['Podcast', 'Interview'],
-            description: "This is a podcast I produced and edited while at Bridal Buzz.",
+          {
+            image: 'assets/images/kendalltiktok.png',
+            link: 'https://www.tiktok.com/@bridal.buzz/video/7032289751189343534?_r=1&_t=8as79cxMBvn',
+            title: 'Bridal Buzz Tiktok',
+            demo: false,
+            technologies: ['Social Media', 'TikTok'],
+            description: "I helped brainstorm, design, and create the most viral TikTok for Bridal Buzz where we discuss wedding traditions.",
             categories: ['featured', 'webdev']
         },
         {
@@ -64,15 +64,7 @@ let render_projects = (slug) => {
             description: "This is another podcast I produced and edited while at Bridal Buzz.",
             categories: ['webdev']
         },
-        {
-            image: 'assets/images/kendalltiktok.png',
-            link: 'https://www.tiktok.com/@bridal.buzz/video/7032289751189343534?_r=1&_t=8as79cxMBvn',
-            title: 'Bridal Buzz Tiktok',
-            demo: false,
-            technologies: ['Social Media', 'TikTok'],
-            description: "I helped brainstorm, design, and create the most viral TikTok for Bridal Buzz where we discuss wedding traditions.",
-            categories: ['featured', 'webdev']
-        },
+      
         {
             image: 'assets/images/dallasfarmersmarket.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/dallasfarmersmarket.jpg',
@@ -92,7 +84,16 @@ let render_projects = (slug) => {
             categories: ['security']
         },
         {
-            image: 'assets/images/iespamplet2.png',
+            image: 'assets/images/kendallpodcast.png',
+            link: 'https://www.youtube.com/watch?v=MwRUKHRySHk&t=23s',
+            title: 'Bridal Buzz Podcast',
+            demo: false, 
+            technologies: ['Podcast', 'Interview'],
+            description: "This is a podcast I produced and edited while at Bridal Buzz.",
+            categories: ['featured', 'webdev']
+        },
+        {
+            image: 'assets/images/iespamphlet2.png',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/iespamphlet2.png',
             title:'IES Pamphlet',
             demo: false,
