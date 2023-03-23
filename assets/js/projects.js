@@ -93,21 +93,21 @@ let render_projects = (slug) => {
             categories: ['featured', 'webdev']
         },
         {
-            image: 'assets/images/iespamphlet2.png',
-            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/iespamphlet2.png',
-            title:'IES Pamphlet',
+            image: 'assets/images/iestwitter.png',
+            link: 'https://twitter.com/IESHealthcare',
+            title: 'Integrative Emergency Services Twitter',
             demo: false,
-            technologies: ['Canva', 'Print Design'],
-            description: "A pamphlet I designed to showcase fellowship opportunities within Integrative Emergency Services.",
+            technologies: ['Social Media', 'Twitter', 'Graphic Design'],
+            description: "I am primarily responsible for designing and creating all Twitter posts for Integrative Emergency Services (@IESHealthcare).",
             categories: ['native']
         },
         {
-            image: 'assets/images/python-chat.png',
-            link: 'https://www.nagekar.com/2014/12/lan-group-messenger-in-python.html',
-            title: 'Terminal Group Chat',
+            image: 'assets/images/iespamphlet2.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/iespamphlet2.png',
+            title:'Integrative Emergency Services Pamphlet',
             demo: false,
-            technologies: ['Python', 'Sockets'],
-            description: "Simple terminal group chat based on native sockets using Python.",
+            technologies: ['Canva', 'Print Design'],
+            description: "A pamphlet I designed to showcase fellowship opportunities within Integrative Emergency Services.",
             categories: ['native']
         },
         {
