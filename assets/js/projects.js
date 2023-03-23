@@ -65,13 +65,13 @@ let render_projects = (slug) => {
             categories: ['webdev']
         },
         {
-            image: 'assets/images/raspberry-pi-monitor.png',
-            link: 'https://github.com/abhn/RPi-Status-Monitor',
-            title: 'Raspberry Pi Monitor',
+            image: 'assets/images/kendalltiktok.png',
+            link: 'https://www.tiktok.com/@bridal.buzz/video/7032289751189343534?_r=1&_t=8as79cxMBvn',
+            title: 'Bridal Buzz Tiktok',
             demo: false,
-            technologies: ['python', 'flask'],
-            description: "Web based status monitor/smart mirror, displays system stats, weather and more.",
-            categories: ['webdev', 'diy']
+            technologies: ['Social Media', 'TikTok'],
+            description: "I helped brainstorm, design, and create the most viral TikTok for Bridal Buzz where we discuss wedding traditions.",
+            categories: ['featured', 'webdev']
         },
         {
             image: 'assets/images/dallasfarmersmarket.jpg',
