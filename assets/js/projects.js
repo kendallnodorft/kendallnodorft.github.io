@@ -63,8 +63,7 @@ let render_projects = (slug) => {
             technologies: ['Podcast', 'Interview'],
             description: "This is another podcast I produced and edited while at Bridal Buzz.",
             categories: ['webdev']
-        },
-      
+        },      
         {
             image: 'assets/images/dallasfarmersmarket.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/dallasfarmersmarket.jpg',
