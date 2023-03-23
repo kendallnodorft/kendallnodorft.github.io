@@ -61,7 +61,7 @@ let render_projects = (slug) => {
             title: 'Engaged in SA: Kat and Jackson',
             demo: false,
             technologies: ['Podcast', 'Interview'],
-            description: "In this episode I interview my boss and her fiance about their engagement story. I also produced and edited this content.",
+            description: "In this episode I interview my boss and her fiance about their engagement story. I also helped produced this content.",
             categories: ['webdev']
         },      
         {
