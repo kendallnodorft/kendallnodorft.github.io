@@ -92,13 +92,13 @@ let render_projects = (slug) => {
             categories: ['webdev']
         },
         {
-            image: 'assets/images/soot-spirits.png',
-            link: 'https://github.com/abhn/Soot-Spirits',
-            title: 'Soot Spirits',
-            demo: 'https://sootspirits.github.io',
-            technologies: ['Jekyll', 'CSS3'],
-            description: "A simple responsive two column Jekyll theme. Great for personal blog and basic portfolio website.",
-            categories: ['webdev']
+            image: 'assets/images/iespamplet.jpeg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/iespamphlet.jpeg',
+            title: 'IES Pamphlet',
+            demo: false,
+            technologies: ['Canva', 'Print Design'],
+            description: "A pamphlet I designed to showcase the mission of Integrative Emergency Services.",
+            categories: ['native']
         },
         {
             image: 'assets/images/python-chat.png',
