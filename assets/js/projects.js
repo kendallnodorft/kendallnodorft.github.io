@@ -133,7 +133,7 @@ let render_projects = (slug) => {
             title: 'KTSW Pride Songs Poster',
             demo: false,
             technologies: ['Print', 'Design'],
-            description: "A poster I created for a local radio station featuring LGBTQ+ songs.",
+            description: "I located with the music department at KTSW radio station to create a LGBTQ+ playlist." ,
             categories: ['security']
         },
         {
