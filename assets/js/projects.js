@@ -53,7 +53,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Magazine', 'InDesign'],
             description: "A sample magazine layout I designed of Clairo and her work.",
-            categories: ['native']
+            categories: ['security']
         },
         {
             image: 'assets/images/kendallpodcast2.png',
