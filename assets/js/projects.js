@@ -36,7 +36,27 @@ let render_projects = (slug) => {
             technologies: ['Photoshop', 'Graphic Design'],
             description: "A vector art graphic I created in Photoshop of my dog, Oakley Ray.",
             categories: ['featured', 'diy']
+
         },
+         {
+            image: 'assets/images/brandoncrawfordposter.png',
+            link: 'https://github.com/kendallnodorft/kendallnodorft.github.io/blob/6cf58fcd0a3f7803bba3011042bb59bca317ba6b/assets/images/brandoncrawfordposter.png',
+            title: 'Brandon Crawford Poster',
+            demo: false,
+            technologies: ['Poster', 'Photoshop'],
+            description: "A San Francisco Giants - Brandon Crawford Poster.",
+            categories: ['featured', 'security']
+        },
+        {
+            image: 'assets/images/black magic woman poster (1)-01.png',
+            link: 'https://github.com/kendallnodorft/kendallnodorft.github.io/blob/a1e9992f6ff5c5744b1d234cda899dfb25dca8c8/assets/images/black%20magic%20woman%20poster%20(1)-01.png',
+            title: 'Santana - Black Magic Woman Poster',
+            demo: false,
+            technologies: ['Poster', 'Photoshop'],
+            description: "A Poster based off Santana's song 'Black Magic Woman'.",
+            categories: ['featured', 'security']
+        },
+        
         {
             image: 'assets/images/tylerchilders-ladymay.png',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/tylerchilders-ladymay.png',
