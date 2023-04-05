@@ -46,6 +46,15 @@ let render_projects = (slug) => {
             technologies: ['Poster', 'Photoshop'],
             description: "A San Francisco Giants - Brandon Crawford Poster.",
             categories: ['featured', 'security']
+        }, 
+         {
+            image: 'assets/images/butler ooster.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/butler%20poster.png',
+            title: 'Jimmy Butler Poster',
+            demo: false,
+            technologies: ['Poster', 'Photoshop'],
+            description: "A Miami Heat - Jimmy Butler Poster.",
+            categories: ['featured', 'security']
         },
         {
             image: 'assets/images/black magic woman poster (1)-01.png',
