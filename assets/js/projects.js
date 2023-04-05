@@ -48,7 +48,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'security']
         }, 
          {
-            image: 'assets/images/butler ooster.png',
+            image: 'assets/images/butler poster.png',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/butler%20poster.png',
             title: 'Jimmy Butler Poster',
             demo: false,
