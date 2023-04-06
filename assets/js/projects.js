@@ -38,6 +38,33 @@ let render_projects = (slug) => {
             categories: ['featured', 'diy']
 
         },
+        {
+            image: 'assets/images/butler poster.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/butler%20poster.png',
+            title: 'Jimmy Butler Poster',
+            demo: false,
+            technologies: ['Poster', 'Photoshop'],
+            description: "A Miami Heat - Jimmy Butler Poster.",
+            categories: ['featured', 'security']
+        },
+        {
+            image: 'assets/images/shaibasketballposter.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/shaibasketballposter.png',
+            title: 'Shai Gilgeous-Alexander Poster',
+            demo: false,
+            technologies: ['Poster', 'Photoshop'],
+            description: "Oklahoma City Thunder - Shai Poster.",
+            categories: ['featured', 'security']
+        },
+        {
+            image: 'assets/images/rangersbaseball.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/rangersbaseball.png',
+            title: 'Rangers Poster',
+            demo: false,
+            technologies: ['Poster', 'Photoshop'],
+            description: "A Rangers Poster using a watercolor effect.",
+            categories: ['featured', 'security']
+        },
          {
             image: 'assets/images/brandoncrawfordposter.png',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/6cf58fcd0a3f7803bba3011042bb59bca317ba6b/assets/images/brandoncrawfordposter.png',
@@ -47,15 +74,6 @@ let render_projects = (slug) => {
             description: "A San Francisco Giants - Brandon Crawford Poster.",
             categories: ['featured', 'security']
         }, 
-         {
-            image: 'assets/images/butler poster.png',
-            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/butler%20poster.png',
-            title: 'Jimmy Butler Poster',
-            demo: false,
-            technologies: ['Poster', 'Photoshop'],
-            description: "A Miami Heat - Jimmy Butler Poster.",
-            categories: ['featured', 'security']
-        },
         {
             image: 'assets/images/black magic woman poster (1)-01.png',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/a1e9992f6ff5c5744b1d234cda899dfb25dca8c8/assets/images/black%20magic%20woman%20poster%20(1)-01.png',
