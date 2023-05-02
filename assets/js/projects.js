@@ -36,7 +36,6 @@ let render_projects = (slug) => {
             technologies: ['Photoshop', 'Graphic Design'],
             description: "A vector art graphic I created in Photoshop of my dog, Oakley Ray.",
             categories: ['featured', 'diy']
-
         },
         {
             image: 'assets/images/butler poster.png',
@@ -57,13 +56,40 @@ let render_projects = (slug) => {
             categories: ['featured', 'security']
         },
         {
+            image: 'assets/images/field%20chicago%20bears.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/field%20chicago%20bears.png',
+            title: 'Social post graphic featuring the Chicago Bears Quater Back - Justin Fields.',
+            demo: false,
+            technologies: ['Poster', 'Photoshop'],
+            description: "Chicago Bears - Graphic.",
+            categories: ['featured', 'security']
+        },
+        {
+            image: 'assets/images/draft%20pickhiggins.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/draft%20pickhiggins.png',
+            title: 'Miami Doplphins Draft Pick Graphic',
+            demo: false,
+            technologies: ['Poster', 'Photoshop'],
+            description: "Elijah Higgins 2023 NFL Draft Pick graphic for the Miami Dolphins.",
+            categories: ['security']
+        },
+        {
+            image: 'assets/images/finphoto.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/finphoto.jpg',
+            title: 'Finn',
+            demo: false, 
+            technologies: ['Photoshop', 'Graphic Design'],
+            description: "A vector art graphic I created in Photoshop of my friends dog, Finn.",
+            categories: ['featured', 'diy']
+        },
+        {
             image: 'assets/images/rangersbaseball.png',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/rangersbaseball.png',
             title: 'Rangers Poster',
             demo: false,
             technologies: ['Poster', 'Photoshop'],
             description: "A Rangers Poster using a watercolor effect.",
-            categories: ['featured', 'security']
+            categories: ['security']
         },
          {
             image: 'assets/images/brandoncrawfordposter.png',
