@@ -85,7 +85,7 @@ let render_projects = (slug) => {
         
         {
             image: 'assets/images/siroaksalot.png',
-            link: 'https://github.com/kendallnodorft/kendallnodorft.github.io/blob/main/assets/images/siroaksalot.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/siroaksalot.png',
             title: 'Renaissance Dog Portrait',
             demo: false,
             technologies: ['Poster', 'Photoshop'],
