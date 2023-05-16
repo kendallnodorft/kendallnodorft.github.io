@@ -88,7 +88,7 @@ let render_projects = (slug) => {
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/siroaksalot.png',
             title: 'Renaissance Dog Portrait',
             demo: false,
-            technologies: ['Poster', 'Photoshop'],
+            technologies: ['Graphic Design', 'Photoshop'],
             description: "A oil painting of my dog, Oakley created in Photoshop.",
             categories: ['featured', 'diy']
         },
