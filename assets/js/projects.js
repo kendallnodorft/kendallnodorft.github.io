@@ -82,15 +82,17 @@ let render_projects = (slug) => {
             description: "A vector art graphic I created in Photoshop of my friends dog, Finn.",
             categories: ['featured', 'diy']
         },
+        
         {
-            image: 'assets/images/rangersbaseball.png',
-            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/rangersbaseball.png',
-            title: 'Rangers Poster',
+            image: 'assets/images/siroaksalot.png',
+            link: 'https://github.com/kendallnodorft/kendallnodorft.github.io/blob/main/assets/images/siroaksalot.png',
+            title: 'Renaissance Dog Portrait',
             demo: false,
             technologies: ['Poster', 'Photoshop'],
-            description: "A Rangers Poster using a watercolor effect.",
-            categories: ['security']
+            description: "A oil painting of my dog, Oakley created in Photoshop.",
+            categories: ['featured', 'diy']
         },
+        
          {
             image: 'assets/images/brandoncrawfordposter.png',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/6cf58fcd0a3f7803bba3011042bb59bca317ba6b/assets/images/brandoncrawfordposter.png',
@@ -118,6 +120,15 @@ let render_projects = (slug) => {
             technologies: ['Canva', 'Graphic Design'],
             description: "I created a poster of one of my favorite country singers, Tyler Childers. The words depict lyrics from his song 'Lady May.' ",
             categories: ['featured', 'diy']
+        },
+            {
+            image: 'assets/images/rangersbaseball.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/rangersbaseball.png',
+            title: 'Rangers Poster',
+            demo: false,
+            technologies: ['Poster', 'Photoshop'],
+            description: "A Rangers Poster using a watercolor effect.",
+            categories: ['security']
         },
         {
             image: 'assets/images/clairo.png',
