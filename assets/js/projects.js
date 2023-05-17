@@ -111,7 +111,15 @@ let render_projects = (slug) => {
             description: "A Poster based off Santana's song 'Black Magic Woman'.",
             categories: ['featured', 'security']
         },
-        
+        {
+            image: 'assets/images/midjourney.jpeg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/midjourney.jpeg',
+            title: 'Midjourney',
+            demo: false,
+            technologies: ['AI', 'Photoshop'],
+            description: "AI generated art with Midjourney.",
+            categories: ['diy', 'security']
+        },
         {
             image: 'assets/images/tylerchilders-ladymay.png',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/tylerchilders-ladymay.png',
