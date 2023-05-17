@@ -47,7 +47,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'security']
         },
         {
-            image: 'assets/images/shaibasketballposter.jpg',
+            image: 'assets/images/shaibasketballposter.png',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/shaibasketballposter.png',
             title: 'Shai Gilgeous-Alexander Poster',
             demo: false,
