@@ -82,7 +82,6 @@ let render_projects = (slug) => {
             description: "A vector art graphic I created in Photoshop of my friends dog, Finn.",
             categories: ['featured', 'diy']
         },
-        
         {
             image: 'assets/images/siroaksalot.png',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/siroaksalot.jpg',
@@ -90,6 +89,15 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Graphic Design', 'Photoshop'],
             description: "A oil painting of my dog, Oakley created in Photoshop.",
+            categories: ['featured', 'diy']
+        },
+         {
+            image: 'assets/images/cat2.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/cat2.png',
+            title: 'Farmers Market Cat',
+            demo: false,
+            technologies: ['DSLR Camera', 'Photography'],
+            description: "I photographed a cat at the farmers market.",
             categories: ['featured', 'diy']
         },
         
