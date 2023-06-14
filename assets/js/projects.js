@@ -17,7 +17,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Social Media', 'TikTok'],
             description: "I helped brainstorm, design, and create the most viral TikTok for Bridal Buzz where we discuss wedding traditions.",
-            categories: ['featured', 'webdev']
+            categories: ['featured', 'webdev', 'security']
         },
         {
             image: 'assets/images/carter2.jpg',
@@ -26,7 +26,16 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['DSLR Camera', 'Photography'],
             description: "I photographed my friend's child when we visited the farmers market together.",
-            categories: ['featured', 'diy']
+            categories: ['featured', 'diy', 'security']
+        },
+         {
+            image: 'assets/images/kendalldrink.JPG',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/kendalldrink.JPG',
+            title: 'Wynwood - Miami',
+            demo: false, 
+            technologies: ['DSLR Camera', 'Photography', 'Photoshop'],
+            description: "I photographed and edited my friend.",
+            categories: ['featured', 'diy', 'security']
         },
          {
             image: 'assets/images/OakieRay.jpg',
@@ -35,7 +44,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['Photoshop', 'Graphic Design'],
             description: "A vector art graphic I created in Photoshop of my dog, Oakley Ray.",
-            categories: ['featured', 'diy']
+            categories: ['featured', 'diy', 'security']
         },
         {
             image: 'assets/images/butler poster.png',
@@ -71,7 +80,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Poster', 'Photoshop'],
             description: "A UFC social media graphic I did as freelance work.",
-            categories: ['security', 'diy']
+            categories: ['security', 'diy', 'security']
         },
         {
             image: 'assets/images/draft%20pickhiggins.png',
@@ -89,7 +98,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['Photoshop', 'Graphic Design'],
             description: "A vector art graphic I created in Photoshop of my friends dog, Finn.",
-            categories: ['featured', 'diy']
+            categories: ['featured', 'diy', 'security']
         },
         {
             image: 'assets/images/siroaksalot.png',
@@ -98,7 +107,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Graphic Design', 'Photoshop'],
             description: "A oil painting of my dog, Oakley created in Photoshop.",
-            categories: ['featured', 'diy']
+            categories: ['featured', 'diy', 'security']
         },
          {
             image: 'assets/images/cat2.png',
@@ -107,7 +116,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['DSLR Camera', 'Photography'],
             description: "I photographed a cat at the farmers market.",
-            categories: ['featured', 'diy']
+            categories: ['featured', 'diy', 'security']
         },
         
          {
@@ -144,7 +153,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Canva', 'Graphic Design'],
             description: "I created a poster of one of my favorite country singers, Tyler Childers. The words depict lyrics from his song 'Lady May.' ",
-            categories: ['featured', 'diy']
+            categories: ['featured', 'diy', 'security']
         },
             {
             image: 'assets/images/rangersbaseball.png',
@@ -171,7 +180,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Podcast', 'Interview'],
             description: "In this episode I interview my boss and her fiance about their engagement story. I also helped produced this content.",
-            categories: ['webdev']
+            categories: ['webdev', 'security']
         },      
         {
             image: 'assets/images/dallasfarmersmarket.jpg',
@@ -180,7 +189,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['DSLR Camera', 'Photography'],
             description: "A vintage truck I spotted at the farmers market.",
-            categories: ['diy']
+            categories: ['diy', 'security']
         },
         {
             image: 'assets/images/christmas.png',
@@ -198,7 +207,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['Podcast', 'Interview'],
             description: "In this episode I interview my bosses, Kat Gualy and Erika Perez, about women in media. I also produced and edited this content. ",
-            categories: ['featured', 'webdev']
+            categories: ['featured', 'webdev', 'security']
         },
         {
             image: 'assets/images/iestwitter.png',
@@ -207,7 +216,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Social Media', 'Twitter', 'Canva'],
             description: "I am primarily responsible for designing and creating all Twitter posts for Integrative Emergency Services (@IESHealthcare).",
-            categories: ['native']
+            categories: ['native', 'security']
         },
         {
             image: 'assets/images/iespamphlet2.png',
@@ -216,7 +225,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Canva', 'Print Design'],
             description: "A pamphlet I designed to showcase fellowship opportunities within Integrative Emergency Services.",
-            categories: ['native']
+            categories: ['native', 'security']
         },
         {
             image: 'assets/images/iesyoutube.png',
@@ -225,7 +234,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['DIY'],
             description: "I designed and created this video among others featured on the YouTube channel of Integrative Emergency Services.",
-            categories: ['native']
+            categories: ['native', 'security']
         },
         {
             image: 'assets/images/bbdog.png',
@@ -234,7 +243,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Social Media', 'Instagram'],
             description: "I designed and created this social post among others for Bridal Buzz.",
-            categories: ['webdev']
+            categories: ['webdev', 'security']
         },
         {
             image: 'assets/images/pride.png',
@@ -252,7 +261,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Social Media', 'TikTok'],
             description: "I designed and created this TikTok for Bridal Buzz.",
-            categories: ['webdev']
+            categories: ['webdev', 'security']
         },
         {
             image: 'assets/images/cuco.png',
