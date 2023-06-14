@@ -80,7 +80,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Poster', 'Photoshop'],
             description: "A UFC social media graphic I did as freelance work.",
-            categories: ['security', 'diy', 'security']
+            categories: ['security']
         },
         {
             image: 'assets/images/draft%20pickhiggins.png',
