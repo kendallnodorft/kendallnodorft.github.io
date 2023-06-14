@@ -33,9 +33,9 @@ let render_projects = (slug) => {
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/kendalldrink.JPG',
             title: 'Wynwood - Miami',
             demo: false, 
-            technologies: ['DSLR Camera', 'Photography', 'Photoshop'],
+            technologies: ['DSLR Camera', 'Photoshop'],
             description: "I photographed and edited my friend.",
-            categories: ['featured', 'diy']
+            categories: ['diy']
         },
          {
             image: 'assets/images/OakieRay.jpg',
