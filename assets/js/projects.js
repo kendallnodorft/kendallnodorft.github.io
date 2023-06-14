@@ -64,6 +64,15 @@ let render_projects = (slug) => {
             description: "Chicago Bears - Graphic.",
             categories: ['featured', 'security']
         },
+     {
+            image: 'assets/images/UFC WATCH PARTY.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/UFC WATCH PARTY.png',
+            title: 'Freelance Work',
+            demo: false,
+            technologies: ['Poster', 'Photoshop'],
+            description: "A UFC social media graphic I did as freelance work.",
+            categories: ['security', 'diy']
+        },
         {
             image: 'assets/images/draft%20pickhiggins.png',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/draft%20pickhiggins.png',
