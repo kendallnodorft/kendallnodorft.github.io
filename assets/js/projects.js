@@ -56,7 +56,7 @@ let render_projects = (slug) => {
             categories: ['diy']
         },
           {
-            image: 'assets/images/oak1.png',
+            image: 'assets/images/willow1.png',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/willow1.png',
             title: 'Willow',
             demo: false, 
