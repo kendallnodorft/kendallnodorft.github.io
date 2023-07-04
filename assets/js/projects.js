@@ -29,6 +29,24 @@ let render_projects = (slug) => {
             categories: ['featured', 'diy']
         },
          {
+            image: 'assets/images/oak1.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/oak1.png',
+            title: 'Oakley Ray',
+            demo: false, 
+            technologies: ['DSLR Camera', 'Photography'],
+            description: "I photographed my dog, Oakley.",
+            categories: ['featured', 'diy']
+        },
+        {
+            image: 'assets/images/willow2.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/willow2.png',
+            title: 'Willow',
+            demo: false, 
+            technologies: ['DSLR Camera', 'Photography'],
+            description: "I photographed my dog, Willow.",
+            categories: ['diy']
+        },
+         {
             image: 'assets/images/kendalldrink.JPG',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/kendalldrink.JPG',
             title: 'Wynwood - Miami',
@@ -36,6 +54,15 @@ let render_projects = (slug) => {
             technologies: ['DSLR Camera', 'Photoshop'],
             description: "I photographed and edited my friend.",
             categories: ['diy']
+        },
+          {
+            image: 'assets/images/oak1.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/willow1.png',
+            title: 'Willow',
+            demo: false, 
+            technologies: ['DSLR Camera', 'Photography'],
+            description: "I photographed my dog, Willow.",
+            categories: ['featured', 'diy']
         },
          {
             image: 'assets/images/OakieRay.jpg',
