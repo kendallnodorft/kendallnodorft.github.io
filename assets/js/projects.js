@@ -29,7 +29,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'diy']
         },
          {
-            image: 'assets/images/okstatetiktok.mov',
+            image: 'assets/images/osubbimage.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/assets/images/okstatetiktok.mov',
             title: 'OSU Basketball',
             demo: false, 
