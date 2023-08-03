@@ -30,7 +30,7 @@ let render_projects = (slug) => {
         },
          {
             image: 'assets/images/oak1.png',
-            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/oak1.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/assets/images/okstatetiktok.mov',
             title: 'OSU Basketball',
             demo: false, 
             technologies: ['TikTok', 'Photography'],
@@ -39,7 +39,7 @@ let render_projects = (slug) => {
         },
         {
             image: 'assets/images/oak1.png',
-            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/assets/images/okstatetiktok.mov',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/oak1.png',
             title: 'Oakley Ray',
             demo: false, 
             technologies: ['DSLR Camera', 'After Effects'],
