@@ -28,15 +28,6 @@ let render_projects = (slug) => {
             description: "I photographed my friend's child when we visited the farmers market together.",
             categories: ['featured', 'diy']
         },
-         {
-            image: 'assets/images/osubbimage.jpg',
-            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/assets/images/okstatetiktok.mov',
-            title: 'OSU Basketball',
-            demo: false, 
-            technologies: ['TikTok', 'Photography'],
-            description: "I edited an OSU basketball clip in After Effects.",
-            categories: ['featured', 'diy']
-        },
         {
             image: 'assets/images/oak1.png',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/oak1.png',
