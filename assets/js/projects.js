@@ -20,6 +20,15 @@ let render_projects = (slug) => {
             categories: ['featured', 'webdev']
         },
         {
+            image: 'assets/images/osubbimage.jpg',
+            link: 'https://youtube.com/shorts/m6HroCnfnSQ?feature=share',
+            title: 'OSU Basketball',
+            demo: false, 
+            technologies: ['TikTok', 'Photography'],
+            description: "I edited an OSU basketball clip in After Effects.",
+            categories: ['featured', 'diy']
+        },
+        {
             image: 'assets/images/carter2.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/carter2.jpg',
             title: 'Carter in His Red Truck',
