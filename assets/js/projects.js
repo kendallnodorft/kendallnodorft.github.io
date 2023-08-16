@@ -28,6 +28,15 @@ let render_projects = (slug) => {
             description: "I edited an OSU basketball clip in After Effects.",
             categories: ['featured', 'diy']
         },
+         {
+            image: 'assets/images/juniorday.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/juniorday.png',
+            title: 'Instagram Story Graphic',
+            demo: false, 
+            technologies: ['Social Media, 'Canva'],
+            description: "A Instagram Story Graphic for OSU.",
+            categories: ['featured', 'diy']
+        },
         {
             image: 'assets/images/carter2.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/carter2.jpg',
