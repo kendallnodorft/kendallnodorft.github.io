@@ -33,7 +33,7 @@ let render_projects = (slug) => {
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/juniorday.png',
             title: 'Instagram Story Graphic',
             demo: false, 
-            technologies: ['Social Media, 'Canva'],
+            technologies: ['Social Media'],
             description: "An Instagram Story Graphic for OSU.",
             categories: ['featured', 'diy']
         },
