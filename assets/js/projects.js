@@ -180,7 +180,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Poster', 'Photoshop'],
             description: "A Poster based off Santana's song 'Black Magic Woman'.",
-            categories: ['featured', 'security']
+            categories: ['security']
         },
         {
             image: 'assets/images/midjourney.jpeg',
@@ -198,7 +198,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Canva', 'Graphic Design'],
             description: "I created a poster of one of my favorite country singers, Tyler Childers. The words depict lyrics from his song 'Lady May.' ",
-            categories: ['featured', 'diy', 'security']
+            categories: ['diy', 'security']
         },
             {
             image: 'assets/images/rangersbaseball.png',
@@ -252,7 +252,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['Podcast', 'Interview'],
             description: "In this episode I interview my bosses, Kat Gualy and Erika Perez, about women in media. I also produced and edited this content. ",
-            categories: ['featured', 'webdev']
+            categories: ['webdev']
         },
         {
             image: 'assets/images/iestwitter.png',
