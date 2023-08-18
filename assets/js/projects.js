@@ -29,6 +29,15 @@ let render_projects = (slug) => {
             categories: ['featured', 'diy']
         },
         {
+            image: 'assets/images/overlayvideo.png',
+            link: 'https://youtube.com/shorts/smFnn9zVNGQ?feature=share',
+            title: 'OSU Football Hype Video',
+            demo: false, 
+            technologies: ['TikTok', 'Photography'],
+            description: "I edited multiple OSU clips in After Effects.",
+            categories: ['featured', 'diy']
+        },
+        {
             image: 'assets/images/juniorday.png',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/juniorday.png',
             title: 'Instagram Story Graphic',
