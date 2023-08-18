@@ -38,15 +38,6 @@ let render_projects = (slug) => {
             categories: ['featured', 'diy']
         },
         {
-            image: 'assets/images/juniorday.png',
-            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/juniorday.png',
-            title: 'Instagram Story Graphic',
-            demo: false, 
-            technologies: ['Social Media'],
-            description: "An Instagram Story Graphic for OSU.",
-            categories: ['featured', 'diy']
-        },
-        {
             image: 'assets/images/carter2.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/carter2.jpg',
             title: 'Carter in His Red Truck',
@@ -62,6 +53,15 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['DSLR Camera', 'After Effects'],
             description: "I photographed my dog, Oakley.",
+            categories: ['featured', 'diy']
+        },
+        {
+            image: 'assets/images/juniorday.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/juniorday.png',
+            title: 'Instagram Story Graphic',
+            demo: false, 
+            technologies: ['Social Media'],
+            description: "An Instagram Story Graphic for OSU.",
             categories: ['featured', 'diy']
         },
         {
@@ -180,7 +180,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Poster', 'Photoshop'],
             description: "A San Francisco Giants - Brandon Crawford Poster.",
-            categories: ['featured', 'security']
+            categories: ['security']
         }, 
         {
             image: 'assets/images/black magic woman poster (1)-01.png',
