@@ -34,7 +34,7 @@ let render_projects = (slug) => {
             title: 'OSU Football Hype Video',
             demo: false, 
             technologies: ['TikTok', 'Photography'],
-            description: "I edited multiple OSU clips in After Effects.",
+            description: "I edited multiple OSU clips in Premiere Pro.",
             categories: ['featured', 'diy']
         },
         {
