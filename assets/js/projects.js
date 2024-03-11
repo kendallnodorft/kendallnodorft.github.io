@@ -27,7 +27,52 @@ let render_projects = (slug) => {
             technologies: ['TikTok', 'Photography'],
             description: "I edited an OSU basketball clip in After Effects.",
             categories: ['featured', 'osu', 'all']
-        },
+        }, 
+        {
+            image: 'assets/images/txst-1.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/txst-1.jpg',
+            title: 'Basketball',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "A photo I took at a basketball game.",
+            categories: ['per', 'all']
+         },
+        {
+            image: 'assets/images/txst-4.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/txst-4.jpg',
+            title: 'Basketball',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "A photo I took at a basketball game.",
+            categories: ['per', 'all']
+         },
+         {
+            image: 'assets/images/txst-5.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/txst-5.jpg',
+            title: 'Basketball',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "A photo I took at a basketball game.",
+            categories: ['per', 'all']
+         },
+        {
+            image: 'assets/images/pistolpete.JPEG',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/pistolpete.JPEG',
+            title: 'Basketball',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "A photo of Pistole Pete.",
+            categories: ['osu', 'all']
+         },
+    {
+            image: 'assets/images/txstvOSU-7.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/txstvOSU-7.jpg',
+            title: 'Hoop shot',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "Basketball game.",
+            categories: ['osu', 'all']
+         },
         {
             image: 'assets/images/overlayvideo.png',
             link: 'https://youtube.com/shorts/smFnn9zVNGQ?feature=share',
