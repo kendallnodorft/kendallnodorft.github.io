@@ -18,7 +18,26 @@ let render_projects = (slug) => {
             technologies: ['Social Media', 'TikTok'],
             description: "I helped brainstorm, design, and create the most viral TikTok for Bridal Buzz where we discuss wedding traditions.",
             categories: ['featured', 'all', 'bb']
-        },
+        }, 
+
+    {
+            image: 'assets/images/champgame-6.JPEG',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/champgame-6.JPEG',
+            title: 'Football',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "UT v. OSU",
+            categories: ['OSU', 'all']
+         },
+    {
+            image: 'assets/images/champgame-13.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/champgame-13.jpg',
+            title: 'Pistol Pete',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "Pete at UT v. OSU game",
+            categories: ['OSU', 'all']
+         },
         {
             image: 'assets/images/osubbimage.jpg',
             link: 'https://youtube.com/shorts/m6HroCnfnSQ?feature=share',
@@ -37,6 +56,24 @@ let render_projects = (slug) => {
             description: "Edited this photo of Carson Jeffrey's guitarist that I took in 2020.",
             categories: ['per', 'all']
         },
+        {
+            image: 'assets/images/byugame.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/byugame.jpg',
+            title: 'Football',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "BYU v. OSU game.",
+            categories: ['OSU', 'all']
+         },
+    {
+            image: 'assets/images/byu game-1.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/byu game-1.jpg',
+            title: 'Football',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "BYU v. OSU game.",
+            categories: ['OSU', 'all']
+         },
         {
             image: 'assets/images/txst-1.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/txst-1.jpg',
