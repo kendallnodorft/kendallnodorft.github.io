@@ -28,6 +28,15 @@ let render_projects = (slug) => {
             description: "I edited an OSU basketball clip in After Effects.",
             categories: ['featured', 'osu', 'all']
         }, 
+    {
+            image: 'assets/images/final concert.JPG',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/final concert.JPG',
+            title: 'Concert Photo',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "Edited this photo of Carson Jeffrey's guitarist that I took in 2020.",
+            categories: ['per', 'all']
+        },
         {
             image: 'assets/images/txst-1.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/txst-1.jpg',
@@ -61,7 +70,7 @@ let render_projects = (slug) => {
             title: 'Basketball',
             demo: false, 
             technologies: ['Photography'],
-            description: "A photo of Pistole Pete.",
+            description: "A photo of Pistol Pete.",
             categories: ['osu', 'all']
          },
     {
