@@ -171,7 +171,7 @@ let render_projects = (slug) => {
             technologies: ['Photography'],
             description: "Football game.",
             categories: ['osu', 'all']
-         }
+         },
         {
             image: 'assets/images/txst-1.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/txst-1.jpg',
@@ -208,7 +208,7 @@ let render_projects = (slug) => {
             description: "A photo of Pistol Pete.",
             categories: ['osu', 'all']
          },
-    {
+        {
             image: 'assets/images/txstvOSU-7.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/txstvOSU-7.jpg',
             title: 'Hoop shot',
@@ -360,8 +360,7 @@ let render_projects = (slug) => {
             technologies: ['DSLR Camera', 'Photography'],
             description: "I photographed a cat at the farmers market.",
             categories: ['featured', 'per', 'all']
-        },
-        
+        },   
          {
             image: 'assets/images/brandoncrawfordposter.png',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/6cf58fcd0a3f7803bba3011042bb59bca317ba6b/assets/images/brandoncrawfordposter.png',
