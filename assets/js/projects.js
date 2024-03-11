@@ -19,7 +19,6 @@ let render_projects = (slug) => {
             description: "I helped brainstorm, design, and create the most viral TikTok for Bridal Buzz where we discuss wedding traditions.",
             categories: ['featured', 'all', 'bb']
         }, 
-
     {
             image: 'assets/images/champgame-6.JPEG',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/champgame-6.JPEG',
@@ -27,6 +26,87 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['Photography'],
             description: "UT v. OSU",
+            categories: ['osu', 'all']
+         }, 
+         {
+            image: 'assets/images/IMG_2175.JPG',
+            link: 'https://www.instagram.com/reel/CzPTlODAkQ2/?igsh=YmtocHNxcTNwNThs',
+            title: 'President Shrum',
+            demo: false,
+            technologies: ['Social Media', 'TikTok'],
+            description: "I captured this video of Dr. Shrum at an OSU football game.",
+            categories: ['featured', 'all', 'osu']
+        }, 
+        {
+            image: 'assets/images/IMG_8644.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/IMG_8644.jpg',
+            title: 'Football',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "OSU Football game",
+            categories: ['osu', 'all']
+         }, 
+        {
+            image: 'assets/images/_MG_2359.HEIC',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/_MG_2359.HEIC',
+            title: 'Football',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "OSU V. OU",
+            categories: ['osu', 'all']
+         }, 
+    {
+            image: 'assets/images/bedlam-1.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/bedlam-1.jpg',
+            title: 'Football',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "OSU V. OU",
+            categories: ['osu', 'all']
+         },
+          {
+            image: 'assets/images/bedlam-2.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/bedlam-2.jpg',
+            title: 'Football',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "OSU V. OU",
+            categories: ['osu', 'all']
+         },
+          {
+            image: 'assets/images/bedlam-24.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/bedlam-24.jpg',
+            title: 'Football',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "OSU V. OU",
+            categories: ['osu', 'all']
+         },
+          {
+            image: 'assets/images/bedlam-29.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/bedlam-29.jpg',
+            title: 'Football',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "OSU V. OU",
+            categories: ['osu', 'all']
+         },
+          {
+            image: 'assets/images/bedlam-4.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/bedlam-4.jpg',
+            title: 'Football',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "OSU V. OU",
+            categories: ['osu', 'all']
+         },
+          {
+            image: 'assets/images/bedlam-5.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/bedlam-5.jpg',
+            title: 'Football',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "OSU V. OU",
             categories: ['osu', 'all']
          },
     {
@@ -73,7 +153,25 @@ let render_projects = (slug) => {
             technologies: ['Photography'],
             description: "BYU v. OSU game.",
             categories: ['osu', 'all']
-         },
+         }, 
+        {
+            image: 'assets/images/DSC_2104.heic',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/DSC_2104.heic',
+            title: 'Cheerleaders',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "Football game.",
+            categories: ['osu', 'all']
+         }, 
+        {
+            image: 'assets/images/_MG_9824.HEIC',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/_MG_9824.HEIC',
+            title: 'Cheerleader',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "Football game.",
+            categories: ['osu', 'all']
+         }
         {
             image: 'assets/images/txst-1.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/txst-1.jpg',
