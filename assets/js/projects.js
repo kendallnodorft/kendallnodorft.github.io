@@ -17,7 +17,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Social Media', 'TikTok'],
             description: "I helped brainstorm, design, and create the most viral TikTok for Bridal Buzz where we discuss wedding traditions.",
-            categories: ['featured', 'webdev']
+            categories: ['featured', 'all', 'bb']
         },
         {
             image: 'assets/images/osubbimage.jpg',
@@ -26,7 +26,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['TikTok', 'Photography'],
             description: "I edited an OSU basketball clip in After Effects.",
-            categories: ['featured', 'diy']
+            categories: ['featured', 'osu', 'all']
         },
         {
             image: 'assets/images/overlayvideo.png',
@@ -35,7 +35,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['TikTok', 'Photography'],
             description: "I edited multiple OSU clips in Premiere Pro.",
-            categories: ['featured', 'diy']
+            categories: ['featured', 'osu', 'all']
         },
         {
             image: 'assets/images/carter2.jpg',
@@ -44,7 +44,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['DSLR Camera', 'Photography'],
             description: "I photographed my friend's child when we visited the farmers market together.",
-            categories: ['featured', 'diy']
+            categories: ['featured', 'per', 'all']
         },
         {
             image: 'assets/images/oak1.png',
@@ -53,7 +53,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['DSLR Camera', 'After Effects'],
             description: "I photographed my dog, Oakley.",
-            categories: ['featured', 'diy']
+            categories: ['featured', 'per', 'all']
         },
         {
             image: 'assets/images/juniorday.png',
@@ -62,7 +62,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['Social Media'],
             description: "An Instagram Story Graphic for OSU.",
-            categories: ['featured', 'diy']
+            categories: ['featured', 'osu', 'all']
         },
         {
             image: 'assets/images/willow2.png',
@@ -71,7 +71,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['DSLR Camera', 'Photography'],
             description: "I photographed my dog, Willow.",
-            categories: ['diy']
+            categories: ['per', 'all']
         },
          {
             image: 'assets/images/kendalldrink.JPG',
@@ -80,7 +80,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['DSLR Camera', 'Photoshop'],
             description: "I photographed and edited my friend.",
-            categories: ['diy']
+            categories: ['per', 'all']
         },
           {
             image: 'assets/images/willow1.png',
@@ -89,7 +89,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['DSLR Camera', 'Photography'],
             description: "I photographed my dog, Willow.",
-            categories: ['featured', 'diy']
+            categories: ['featured', 'all', 'per']
         },
          {
             image: 'assets/images/OakieRay.jpg',
@@ -98,7 +98,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['Photoshop', 'Graphic Design'],
             description: "A vector art graphic I created in Photoshop of my dog, Oakley Ray.",
-            categories: ['featured', 'diy', 'security']
+            categories: ['featured', 'per', 'all']
         },
         {
             image: 'assets/images/butler poster.png',
@@ -107,7 +107,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Poster', 'Photoshop'],
             description: "A Miami Heat - Jimmy Butler Poster.",
-            categories: ['featured', 'security']
+            categories: ['featured', 'print', 'all']
         },
         {
             image: 'assets/images/shaibasketballposter.png',
@@ -116,7 +116,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Poster', 'Photoshop'],
             description: "Oklahoma City Thunder - Shai Poster.",
-            categories: ['featured', 'security']
+            categories: ['featured', 'print', 'all']
         },
         {
             image: 'assets/images/field%20chicago%20bears.png',
@@ -125,7 +125,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Poster', 'Photoshop'],
             description: "Chicago Bears - Graphic.",
-            categories: ['featured']
+            categories: ['all']
         },
      {
             image: 'assets/images/UFC WATCH PARTY.png',
@@ -134,7 +134,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Poster', 'Photoshop'],
             description: "A UFC social media graphic I did as freelance work.",
-            categories: ['diy']
+            categories: ['all', 'per']
         },
         {
             image: 'assets/images/draft%20pickhiggins.png',
@@ -143,7 +143,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Poster', 'Photoshop'],
             description: "Elijah Higgins 2023 NFL Draft Pick graphic for the Miami Dolphins.",
-            categories: ['security']
+            categories: ['all', 'per']
         },
         {
             image: 'assets/images/finphoto.jpg',
@@ -152,7 +152,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['Photoshop', 'Graphic Design'],
             description: "A vector art graphic I created in Photoshop of my friends dog, Finn.",
-            categories: ['featured', 'diy']
+            categories: ['featured', 'all', 'per']
         },
         {
             image: 'assets/images/siroaksalot.png',
@@ -161,7 +161,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Graphic Design', 'Photoshop'],
             description: "A oil painting of my dog, Oakley created in Photoshop.",
-            categories: ['featured', 'diy', 'security']
+            categories: ['featured', 'per', 'all','print']
         },
          {
             image: 'assets/images/cat2.png',
@@ -170,7 +170,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['DSLR Camera', 'Photography'],
             description: "I photographed a cat at the farmers market.",
-            categories: ['featured', 'diy', 'security']
+            categories: ['featured', 'per', 'all']
         },
         
          {
@@ -180,7 +180,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Poster', 'Photoshop'],
             description: "A San Francisco Giants - Brandon Crawford Poster.",
-            categories: ['security']
+            categories: ['all', 'print']
         }, 
         {
             image: 'assets/images/black magic woman poster (1)-01.png',
@@ -189,7 +189,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Poster', 'Photoshop'],
             description: "A Poster based off Santana's song 'Black Magic Woman'.",
-            categories: ['security']
+            categories: ['print', 'all']
         },
         {
             image: 'assets/images/midjourney.jpeg',
@@ -198,7 +198,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['AI', 'Photoshop'],
             description: "AI generated art with Midjourney.",
-            categories: ['diy', 'security']
+            categories: ['per', 'all']
         },
         {
             image: 'assets/images/tylerchilders-ladymay.png',
@@ -207,7 +207,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Canva', 'Graphic Design'],
             description: "I created a poster of one of my favorite country singers, Tyler Childers. The words depict lyrics from his song 'Lady May.' ",
-            categories: ['diy', 'security']
+            categories: ['per', 'all']
         },
             {
             image: 'assets/images/rangersbaseball.png',
@@ -216,7 +216,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Poster', 'Photoshop'],
             description: "A Rangers Poster using a watercolor effect.",
-            categories: ['security']
+            categories: ['all']
         },
         {
             image: 'assets/images/clairo.png',
@@ -225,7 +225,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Magazine', 'InDesign'],
             description: "A sample magazine layout I designed of Clairo and her work.",
-            categories: ['security']
+            categories: ['all', 'print']
         },
         {
             image: 'assets/images/kendallpodcast2.png',
@@ -234,7 +234,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Podcast', 'Interview'],
             description: "In this episode I interview my boss and her fiance about their engagement story. I also helped produced this content.",
-            categories: ['webdev']
+            categories: ['bb', 'all']
         },      
         {
             image: 'assets/images/dallasfarmersmarket.jpg',
@@ -243,7 +243,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['DSLR Camera', 'Photography'],
             description: "A vintage truck I spotted at the farmers market.",
-            categories: ['diy', 'security']
+            categories: ['per', 'all']
         },
         {
             image: 'assets/images/christmas.png',
@@ -252,7 +252,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Indesign', 'Magazine'],
             description: "A sample magazine layout I designed for my favorite Khruangbin song.",
-            categories: ['security']
+            categories: ['all', 'print']
         },
         {
             image: 'assets/images/kendallpodcast.png',
@@ -261,7 +261,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['Podcast', 'Interview'],
             description: "In this episode I interview my bosses, Kat Gualy and Erika Perez, about women in media. I also produced and edited this content. ",
-            categories: ['webdev']
+            categories: ['bb', 'all']
         },
         {
             image: 'assets/images/iestwitter.png',
@@ -270,7 +270,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Social Media', 'Twitter', 'Canva'],
             description: "I am primarily responsible for designing and creating all Twitter posts for Integrative Emergency Services (@IESHealthcare).",
-            categories: ['native']
+            categories: ['all']
         },
         {
             image: 'assets/images/iespamphlet2.png',
@@ -279,7 +279,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Canva', 'Print Design'],
             description: "A pamphlet I designed to showcase fellowship opportunities within Integrative Emergency Services.",
-            categories: ['native', 'security']
+            categories: ['all']
         },
         {
             image: 'assets/images/iesyoutube.png',
@@ -288,7 +288,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['DIY'],
             description: "I designed and created this video among others featured on the YouTube channel of Integrative Emergency Services.",
-            categories: ['native']
+            categories: ['all']
         },
         {
             image: 'assets/images/bbdog.png',
@@ -297,7 +297,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Social Media', 'Instagram'],
             description: "I designed and created this social post among others for Bridal Buzz.",
-            categories: ['webdev']
+            categories: ['bb', 'all']
         },
         {
             image: 'assets/images/pride.png',
@@ -306,7 +306,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Print', 'Design'],
             description: "I located with the music department at KTSW radio station to create a LGBTQ+ playlist." ,
-            categories: ['security']
+            categories: ['all']
         },
         {
             image: 'assets/images/bbtiktok2.png',
@@ -315,7 +315,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Social Media', 'TikTok'],
             description: "I designed and created this TikTok for Bridal Buzz.",
-            categories: ['webdev']
+            categories: ['bb', 'all']
         },
         {
             image: 'assets/images/cuco.png',
@@ -324,7 +324,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['InDesign', 'Magazine'],
             description: "A sample magazine layout I designed for Cuco.",
-            categories: ['security']
+            categories: ['all', 'print']
         },
     ]
 
