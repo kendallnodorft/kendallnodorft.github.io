@@ -27,7 +27,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['Photography'],
             description: "UT v. OSU",
-            categories: ['OSU', 'all']
+            categories: ['osu', 'all']
          },
     {
             image: 'assets/images/champgame-13.jpg',
@@ -36,7 +36,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['Photography'],
             description: "Pete at UT v. OSU game",
-            categories: ['OSU', 'all']
+            categories: ['osu', 'all']
          },
         {
             image: 'assets/images/osubbimage.jpg',
@@ -63,7 +63,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['Photography'],
             description: "BYU v. OSU game.",
-            categories: ['OSU', 'all']
+            categories: ['osu', 'all']
          },
     {
             image: 'assets/images/byu game-1.jpg',
@@ -72,7 +72,7 @@ let render_projects = (slug) => {
             demo: false, 
             technologies: ['Photography'],
             description: "BYU v. OSU game.",
-            categories: ['OSU', 'all']
+            categories: ['osu', 'all']
          },
         {
             image: 'assets/images/txst-1.jpg',
