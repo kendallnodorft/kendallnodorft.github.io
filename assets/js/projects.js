@@ -248,7 +248,7 @@ let render_projects = (slug) => {
           {
             image: 'assets/images/k2.JPG',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/k2.JPG',
-            title: 'Wynwood - Miami',
+            title: 'Dallas - December',
             demo: false, 
             technologies: ['DSLR Camera', 'Photoshop'],
             description: "I photographed and edited my friend.",
