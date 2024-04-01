@@ -146,8 +146,8 @@ let render_projects = (slug) => {
             categories: ['per', 'all']
         },
         {
-            image: 'assets/images/oak gard 7.jpg',
-            link: 'https://raw.githubusercontent.com/kendallnodorft/assets/images/oak gard 7.jpg',
+            image: 'assets/images/oakgard7.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/assets/images/oakgard7.jpg',
             title: 'Oakley',
             demo: false, 
             technologies: ['Photography'],
@@ -155,8 +155,8 @@ let render_projects = (slug) => {
             categories: ['per', 'all']
         },
         {
-            image: 'assets/images/oak gard.jpg',
-            link: 'https://raw.githubusercontent.com/kendallnodorft/assets/images/oak gard.jpg',
+            image: 'assets/images/oakgard.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/assets/images/oakgard.jpg',
             title: 'Oakley',
             demo: false, 
             technologies: ['Photography'],
