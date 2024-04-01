@@ -137,6 +137,33 @@ let render_projects = (slug) => {
             categories: ['per', 'all']
         },
         {
+            image: 'assets/images/garden9.JPG',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/assets/images/garden9.JPG',
+            title: 'Oakley',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "Botanical Gardens",
+            categories: ['per', 'all']
+        },
+        {
+            image: 'assets/images/oak gard 7.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/assets/images/oak gard 7.jpg',
+            title: 'Oakley',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "Botanical Gardens",
+            categories: ['per', 'all']
+        },
+        {
+            image: 'assets/images/oak gard.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/assets/images/oak gard.jpg',
+            title: 'Oakley',
+            demo: false, 
+            technologies: ['Photography'],
+            description: "Botanical Gardens",
+            categories: ['per', 'all']
+        },
+        {
             image: 'assets/images/byugame.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/byugame.jpg',
             title: 'Football',
