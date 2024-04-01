@@ -137,8 +137,8 @@ let render_projects = (slug) => {
             categories: ['per', 'all']
         },
         {
-            image: 'assets/images/garden9.JPG',
-            link: 'https://raw.githubusercontent.com/kendallnodorft/assets/images/garden9.JPG',
+            image: 'assets/images/oaksgarden.JPG',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/assets/images/oaksgarden.JPG',
             title: 'Oakley',
             demo: false, 
             technologies: ['Photography'],
@@ -146,8 +146,8 @@ let render_projects = (slug) => {
             categories: ['per', 'all']
         },
         {
-            image: 'assets/images/oakgard7.png',
-            link: 'https://raw.githubusercontent.com/kendallnodorft/assets/images/oakgard7.jpg',
+            image: 'assets/images/gardenoak.png',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/assets/images/gardenoak.png',
             title: 'Oakley',
             demo: false, 
             technologies: ['Photography'],
@@ -155,8 +155,8 @@ let render_projects = (slug) => {
             categories: ['per', 'all']
         },
         {
-            image: 'assets/images/oakgard.jpg',
-            link: 'https://raw.githubusercontent.com/kendallnodorft/assets/images/oakgard.jpg',
+            image: 'assets/images/oakgraden.jpg',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/assets/images/oakgraden.jpg',
             title: 'Oakley',
             demo: false, 
             technologies: ['Photography'],
