@@ -75,15 +75,6 @@ let render_projects = (slug) => {
             categories: ['osu', 'all']
          },
           {
-            image: 'assets/images/bedlam-29.jpg',
-            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/bedlam-29.jpg',
-            title: 'Football',
-            demo: false, 
-            technologies: ['Photography'],
-            description: "OSU V. OU",
-            categories: ['osu', 'all']
-         },
-          {
             image: 'assets/images/bedlam-4.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/bedlam-4.jpg',
             title: 'Pom Squad',
@@ -131,15 +122,6 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/oaksgarden.JPG',
             link: 'https://raw.githubusercontent.com/kendallnodorft/assets/images/oaksgarden.JPG',
-            title: 'Oakley',
-            demo: false, 
-            technologies: ['Photography'],
-            description: "Botanical Gardens",
-            categories: ['per', 'all']
-        },
-        {
-            image: 'assets/images/gardenoak.png',
-            link: 'https://raw.githubusercontent.com/kendallnodorft/assets/images/gardenoak.png',
             title: 'Oakley',
             demo: false, 
             technologies: ['Photography'],
