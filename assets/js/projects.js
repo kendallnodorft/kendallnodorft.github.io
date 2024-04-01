@@ -146,7 +146,7 @@ let render_projects = (slug) => {
             categories: ['per', 'all']
         },
         {
-            image: 'assets/images/oakgard7.jpg',
+            image: 'assets/images/oakgard7.png',
             link: 'https://raw.githubusercontent.com/kendallnodorft/assets/images/oakgard7.jpg',
             title: 'Oakley',
             demo: false, 
