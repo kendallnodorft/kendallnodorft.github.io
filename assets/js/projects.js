@@ -94,7 +94,7 @@ let render_projects = (slug) => {
           {
             image: 'assets/images/bedlam-4.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/bedlam-4.jpg',
-            title: 'Football',
+            title: 'Pom Squad',
             demo: false, 
             technologies: ['Photography'],
             description: "OSU V. OU",
@@ -103,7 +103,7 @@ let render_projects = (slug) => {
           {
             image: 'assets/images/bedlam-5.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/bedlam-5.jpg',
-            title: 'Football',
+            title: 'Pom Squad',
             demo: false, 
             technologies: ['Photography'],
             description: "OSU V. OU",
