@@ -245,6 +245,15 @@ let render_projects = (slug) => {
             description: "I photographed my dog, Willow.",
             categories: ['per', 'all']
         },
+          {
+            image: 'assets/images/k2.JPG',
+            link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/k2.JPG',
+            title: 'Wynwood - Miami',
+            demo: false, 
+            technologies: ['DSLR Camera', 'Photoshop'],
+            description: "I photographed and edited my friend.",
+            categories: ['per', 'all']
+        },
          {
             image: 'assets/images/kendalldrink.JPG',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/kendalldrink.JPG',
