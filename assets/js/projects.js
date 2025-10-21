@@ -227,7 +227,7 @@ let render_projects = (slug) => {
             description: "I photographed my dog, Oakley.",
             categories: ['featured', 'per', 'all']
         },
-        {
+     /**     {
             image: 'assets/images/juniorday.png',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/juniorday.png',
             title: 'Instagram Story Graphic',
@@ -235,7 +235,7 @@ let render_projects = (slug) => {
             technologies: ['Social Media'],
             description: "An Instagram Story Graphic for OSU.",
             categories: ['featured', 'osu', 'all']
-        },
+        }, **/
         {
             image: 'assets/images/willow2.png',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/willow2.png',
