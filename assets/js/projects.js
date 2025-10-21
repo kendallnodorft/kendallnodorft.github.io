@@ -19,7 +19,7 @@ let render_projects = (slug) => {
             description: "I helped brainstorm, design, and create the most viral TikTok for Bridal Buzz where we discuss wedding traditions.",
             categories: ['featured', 'all', 'bb']
         }, 
-    {
+    /** {
             image: 'assets/images/champgame-6.JPEG',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/champgame-6.JPEG',
             title: 'Football',
@@ -27,7 +27,7 @@ let render_projects = (slug) => {
             technologies: ['Photography'],
             description: "UT v. OSU",
             categories: ['osu', 'all']
-         }, 
+         }, */
          {
             image: 'assets/images/IMG_2175.JPG',
             link: 'https://www.instagram.com/reel/CzPTlODAkQ2/?igsh=YmtocHNxcTNwNThs',
@@ -37,7 +37,7 @@ let render_projects = (slug) => {
             description: "I captured this video of Dr. Shrum at an OSU football game.",
             categories: ['featured', 'all', 'osu']
         }, 
-        {
+       /**  {
             image: 'assets/images/IMG_8644.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/IMG_8644.jpg',
             title: 'Football',
@@ -45,9 +45,9 @@ let render_projects = (slug) => {
             technologies: ['Photography'],
             description: "OSU Football game",
             categories: ['osu', 'all']
-         }, 
+         }, **/
 
-    {
+   /**  {
             image: 'assets/images/bedlam-1.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/bedlam-1.jpg',
             title: 'Football',
@@ -55,8 +55,8 @@ let render_projects = (slug) => {
             technologies: ['Photography'],
             description: "OSU V. OU",
             categories: ['osu', 'all']
-         },
-          {
+         }, **/
+        /**     {
             image: 'assets/images/bedlam-2.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/bedlam-2.jpg',
             title: 'Football',
@@ -100,7 +100,7 @@ let render_projects = (slug) => {
             technologies: ['Photography'],
             description: "Pete at UT v. OSU game",
             categories: ['osu', 'all']
-         },
+         }, **/
         {
             image: 'assets/images/osubbimage.jpg',
             link: 'https://youtube.com/shorts/m6HroCnfnSQ?feature=share',
@@ -137,7 +137,7 @@ let render_projects = (slug) => {
             description: "Botanical Gardens",
             categories: ['per', 'all']
         },
-        {
+ /**       {
             image: 'assets/images/byugame.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/byugame.jpg',
             title: 'Football',
@@ -145,7 +145,7 @@ let render_projects = (slug) => {
             technologies: ['Photography'],
             description: "BYU v. OSU game.",
             categories: ['osu', 'all']
-         },
+         }, 
     {
             image: 'assets/images/byu game-1.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/byu game-1.jpg',
@@ -190,7 +190,7 @@ let render_projects = (slug) => {
             technologies: ['Photography'],
             description: "A photo of Pistol Pete.",
             categories: ['osu', 'all']
-         },
+         }, 
         {
             image: 'assets/images/txstvOSU-7.jpg',
             link: 'https://raw.githubusercontent.com/kendallnodorft/kendallnodorft.github.io/main/assets/images/txstvOSU-7.jpg',
@@ -199,7 +199,7 @@ let render_projects = (slug) => {
             technologies: ['Photography'],
             description: "Basketball game.",
             categories: ['osu', 'all']
-         },
+         }, **/
         {
             image: 'assets/images/overlayvideo.png',
             link: 'https://youtube.com/shorts/smFnn9zVNGQ?feature=share',
